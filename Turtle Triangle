@@ -1,0 +1,22 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+from turtle import *
+
+'''Create a triangle via Turtle'''
+
+width(6)
+
+pencolor('yellow')
+forward(200)
+right(120)
+
+pencolor('red')
+forward(200)
+right(120)
+
+pencolor('green')
+forward(200)
+right(120)
+
+done()
